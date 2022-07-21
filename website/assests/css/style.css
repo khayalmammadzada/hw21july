@@ -1,0 +1,37 @@
+@media screen and (max-width:992px) {
+    .nav-links {
+        display: none !important;
+    }
+}
+
+nav{
+    background-color: rgb(45, 47, 83);
+}
+
+.container .row .logo h1 a{
+    color: white !important;
+}
+
+.nav-links ul li a{
+    color: white !important;
+}
+
+main .first{
+    height: 100vh !important;
+}
+
+main section .container .row .icon{
+    color: white !important;
+    font-size: 50px;
+}
+
+main section .container .row .image-smile{
+    width: 500px;
+    height: 500px;
+}
+
+main section .container .row .icon-2{
+    font-size: 50px !important;
+    color: rgb(22, 22, 70);
+}
+
